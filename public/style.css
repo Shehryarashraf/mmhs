@@ -1,0 +1,111 @@
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .navbar {
+        overflow: hidden;
+    }
+    
+    .myNavLink {
+        padding: 0px 15px;
+    }
+    
+    .myNavLink a:hover {
+        color: blue;
+    }
+    
+    .nav-link {
+        font-size: 30px;
+        font-family: 'Markazi Text', serif;
+    }
+    
+    .parafont {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 18px;
+    }
+    
+    .adm {
+        color: green;
+        font-family: 'Mukta', sans-serif;
+    }
+    
+    .heading {
+        color: blue;
+    }
+    
+    .marquee {
+        background-color: blue;
+        color: white;
+    }
+    
+    .p-5 {
+        padding: 5rem!important;
+    }
+    
+    .jumbotron {
+        background: white;
+        padding: 10px 0px;
+    }
+    
+    .admission {
+        background-color: rgb(207, 206, 206);
+    }
+    
+    .card-deck {
+        padding: 45px 32px;
+        color: white;
+    }
+    
+    .events {
+        background-color: rgb(41, 87, 236);
+    }
+    
+    .contacts {
+        color: blue;
+        font-family: 'Mukta', sans-serif;
+    }
+    
+    .cntpad {
+        margin-top: 15px;
+    }
+    
+    .cntpad a {
+        text-decoration: none;
+    }
+    
+    .aboutus {
+        font-size: 16px;
+        padding: 5px;
+        font-weight: normal;
+    }
+    
+    .card-body a {
+        text-decoration: none;
+    }
+    
+    .footer {
+        background-color: rgb(4, 55, 223);
+        color: white;
+        text-align: center;
+        padding: 4px;
+    }
+    /* .back-to-top {
+        position: fixed;
+        bottom: 25px;
+        right: 25px;
+        /* display: none; */
+    
+    .box {
+        background-color: rgb(7, 192, 192);
+        color: white;
+        font-family: 'Noto Sans', sans-serif;
+        padding: 47px;
+        padding-left: 107px;
+        font-size: 44px;
+    }
+    
+    .box1 {
+        background-color: rgb(202, 202, 202);
+        padding: 52px;
+    }
